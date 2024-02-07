@@ -1,0 +1,7 @@
+C:\Users\viole\Desktop\basic_c#_programs\Daily-Report-Assignment\Daily-Report-Assignment\bin\Debug\Daily-Report-Assignment.exe.config
+C:\Users\viole\Desktop\basic_c#_programs\Daily-Report-Assignment\Daily-Report-Assignment\bin\Debug\Daily-Report-Assignment.exe
+C:\Users\viole\Desktop\basic_c#_programs\Daily-Report-Assignment\Daily-Report-Assignment\bin\Debug\Daily-Report-Assignment.pdb
+C:\Users\viole\Desktop\basic_c#_programs\Daily-Report-Assignment\Daily-Report-Assignment\obj\Debug\Daily-Report-Assignment.csproj.AssemblyReference.cache
+C:\Users\viole\Desktop\basic_c#_programs\Daily-Report-Assignment\Daily-Report-Assignment\obj\Debug\Daily-Report-Assignment.csproj.CoreCompileInputs.cache
+C:\Users\viole\Desktop\basic_c#_programs\Daily-Report-Assignment\Daily-Report-Assignment\obj\Debug\Daily-Report-Assignment.exe
+C:\Users\viole\Desktop\basic_c#_programs\Daily-Report-Assignment\Daily-Report-Assignment\obj\Debug\Daily-Report-Assignment.pdb

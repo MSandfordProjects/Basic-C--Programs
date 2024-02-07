@@ -1,0 +1,7 @@
+C:\Users\viole\Desktop\basic_c#_programs\myConsoleProject.ncs\myConsoleProject.ncs\bin\Debug\myConsoleProject.ncs.exe.config
+C:\Users\viole\Desktop\basic_c#_programs\myConsoleProject.ncs\myConsoleProject.ncs\bin\Debug\myConsoleProject.ncs.exe
+C:\Users\viole\Desktop\basic_c#_programs\myConsoleProject.ncs\myConsoleProject.ncs\bin\Debug\myConsoleProject.ncs.pdb
+C:\Users\viole\Desktop\basic_c#_programs\myConsoleProject.ncs\myConsoleProject.ncs\obj\Debug\myConsoleProject.ncs.csproj.AssemblyReference.cache
+C:\Users\viole\Desktop\basic_c#_programs\myConsoleProject.ncs\myConsoleProject.ncs\obj\Debug\myConsoleProject.ncs.csproj.CoreCompileInputs.cache
+C:\Users\viole\Desktop\basic_c#_programs\myConsoleProject.ncs\myConsoleProject.ncs\obj\Debug\myConsoleProject.ncs.exe
+C:\Users\viole\Desktop\basic_c#_programs\myConsoleProject.ncs\myConsoleProject.ncs\obj\Debug\myConsoleProject.ncs.pdb
