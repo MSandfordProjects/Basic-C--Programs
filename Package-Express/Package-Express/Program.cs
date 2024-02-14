@@ -30,6 +30,15 @@ namespace Package_Express
             Console.WriteLine("Please enter the package length:");
             //Stores the length value as decimal
             decimal PackLength = Convert.ToDecimal(Console.ReadLine());
+            //Adds package size
+            decimal PackTotal = (PackWidth + PackLength + PackHeight);
+            //If package size is greater than or equal to 50 package can't send - exit program
+            if (PackTotal >= 50 )
+            {
+                Console.WriteLine("Package too big to be shipped via Package Express.");
+                return;
+            }
+
 
             //take the width, height, and length and multiple them together
             decimal Dtotal = (PackWidth * PackHeight * PackLength);
