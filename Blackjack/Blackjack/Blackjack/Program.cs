@@ -10,7 +10,15 @@ namespace Blackjack
     class Program
     {
         static void Main(string[] args)
-        {   
+        {
+            TwentyOneGame game = new TwentyOneGame();
+            game.Players = new List<string>() { "Jesse", "Bill", "Joe" };
+            game.ListPlayers();
+            game.Play();
+            Console.ReadLine();
+
+
+
             //should contain deck of 52 unique cards from standard deck of cards
             Deck deck = new Deck();
             int timesShuffled = 0;
