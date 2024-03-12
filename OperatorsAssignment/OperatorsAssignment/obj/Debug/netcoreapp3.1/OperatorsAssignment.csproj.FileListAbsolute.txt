@@ -1,0 +1,13 @@
+C:\Users\viole\Documents\GitHub\basic_c#_programs\Basic-C--Programs\OperatorsAssignment\OperatorsAssignment\bin\Debug\netcoreapp3.1\OperatorsAssignment.exe
+C:\Users\viole\Documents\GitHub\basic_c#_programs\Basic-C--Programs\OperatorsAssignment\OperatorsAssignment\bin\Debug\netcoreapp3.1\OperatorsAssignment.deps.json
+C:\Users\viole\Documents\GitHub\basic_c#_programs\Basic-C--Programs\OperatorsAssignment\OperatorsAssignment\bin\Debug\netcoreapp3.1\OperatorsAssignment.runtimeconfig.json
+C:\Users\viole\Documents\GitHub\basic_c#_programs\Basic-C--Programs\OperatorsAssignment\OperatorsAssignment\bin\Debug\netcoreapp3.1\OperatorsAssignment.runtimeconfig.dev.json
+C:\Users\viole\Documents\GitHub\basic_c#_programs\Basic-C--Programs\OperatorsAssignment\OperatorsAssignment\bin\Debug\netcoreapp3.1\OperatorsAssignment.dll
+C:\Users\viole\Documents\GitHub\basic_c#_programs\Basic-C--Programs\OperatorsAssignment\OperatorsAssignment\bin\Debug\netcoreapp3.1\OperatorsAssignment.pdb
+C:\Users\viole\Documents\GitHub\basic_c#_programs\Basic-C--Programs\OperatorsAssignment\OperatorsAssignment\obj\Debug\netcoreapp3.1\OperatorsAssignment.csproj.AssemblyReference.cache
+C:\Users\viole\Documents\GitHub\basic_c#_programs\Basic-C--Programs\OperatorsAssignment\OperatorsAssignment\obj\Debug\netcoreapp3.1\OperatorsAssignment.AssemblyInfoInputs.cache
+C:\Users\viole\Documents\GitHub\basic_c#_programs\Basic-C--Programs\OperatorsAssignment\OperatorsAssignment\obj\Debug\netcoreapp3.1\OperatorsAssignment.AssemblyInfo.cs
+C:\Users\viole\Documents\GitHub\basic_c#_programs\Basic-C--Programs\OperatorsAssignment\OperatorsAssignment\obj\Debug\netcoreapp3.1\OperatorsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\viole\Documents\GitHub\basic_c#_programs\Basic-C--Programs\OperatorsAssignment\OperatorsAssignment\obj\Debug\netcoreapp3.1\OperatorsAssignment.dll
+C:\Users\viole\Documents\GitHub\basic_c#_programs\Basic-C--Programs\OperatorsAssignment\OperatorsAssignment\obj\Debug\netcoreapp3.1\OperatorsAssignment.pdb
+C:\Users\viole\Documents\GitHub\basic_c#_programs\Basic-C--Programs\OperatorsAssignment\OperatorsAssignment\obj\Debug\netcoreapp3.1\OperatorsAssignment.genruntimeconfig.cache
