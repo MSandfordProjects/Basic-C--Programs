@@ -1,4 +1,0 @@
-C:\Users\viole\Documents\GitHub\basic_c#_programs\Basic-C--Programs\TwentyOneCard\TwentyOneCard\obj\Debug\netcoreapp3.1\TwentyOneCard.csproj.AssemblyReference.cache
-C:\Users\viole\Documents\GitHub\basic_c#_programs\Basic-C--Programs\TwentyOneCard\TwentyOneCard\obj\Debug\netcoreapp3.1\TwentyOneCard.AssemblyInfoInputs.cache
-C:\Users\viole\Documents\GitHub\basic_c#_programs\Basic-C--Programs\TwentyOneCard\TwentyOneCard\obj\Debug\netcoreapp3.1\TwentyOneCard.AssemblyInfo.cs
-C:\Users\viole\Documents\GitHub\basic_c#_programs\Basic-C--Programs\TwentyOneCard\TwentyOneCard\obj\Debug\netcoreapp3.1\TwentyOneCard.csproj.CoreCompileInputs.cache
