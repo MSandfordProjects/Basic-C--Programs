@@ -74,7 +74,7 @@ namespace TwentyOne
                 while (!player.Stay)
                 {
                     Console.WriteLine("Your cards are: ");
-                    foreach  (Card card in player.Hand)
+                    foreach  (Card card in Player.Hand)
                     {
                         Console.Write("{0} ", card.ToString());
                     }

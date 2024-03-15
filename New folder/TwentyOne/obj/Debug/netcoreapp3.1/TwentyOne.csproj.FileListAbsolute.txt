@@ -1,0 +1,4 @@
+C:\Users\viole\Documents\GitHub\basic_c#_programs\Basic-C--Programs\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.csproj.AssemblyReference.cache
+C:\Users\viole\Documents\GitHub\basic_c#_programs\Basic-C--Programs\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.AssemblyInfoInputs.cache
+C:\Users\viole\Documents\GitHub\basic_c#_programs\Basic-C--Programs\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.AssemblyInfo.cs
+C:\Users\viole\Documents\GitHub\basic_c#_programs\Basic-C--Programs\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TwentyOne": {
+      "commandName": "Project"
+    },
+    "TwentyOneDebug": {
+      "commandName": "Project"
+    }
+  }
+}

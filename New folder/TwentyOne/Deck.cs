@@ -22,9 +22,9 @@ namespace TwentyOne
 
             //for each item in the faces list - loop 4 times - create card assign suit property.
             // add that new card into card list.
-            foreach (Face face in Enum.GetValues(typeof(Face)))
+            foreach (string face in Faces)
             {
-                foreach (Suit suit in Enum.GetValues(typeof(Suit)))
+                foreach (string suit in Suits)
                 {
                     Card card = new Card();
                     card.Suit = suit;
