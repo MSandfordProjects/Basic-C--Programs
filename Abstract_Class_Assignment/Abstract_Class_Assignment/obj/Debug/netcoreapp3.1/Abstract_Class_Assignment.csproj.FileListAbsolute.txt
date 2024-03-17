@@ -1,0 +1,13 @@
+C:\Users\viole\Documents\GitHub\basic_c#_programs\Basic-C--Programs\Abstract_Class_Assignment\Abstract_Class_Assignment\bin\Debug\netcoreapp3.1\Abstract_Class_Assignment.exe
+C:\Users\viole\Documents\GitHub\basic_c#_programs\Basic-C--Programs\Abstract_Class_Assignment\Abstract_Class_Assignment\bin\Debug\netcoreapp3.1\Abstract_Class_Assignment.deps.json
+C:\Users\viole\Documents\GitHub\basic_c#_programs\Basic-C--Programs\Abstract_Class_Assignment\Abstract_Class_Assignment\bin\Debug\netcoreapp3.1\Abstract_Class_Assignment.runtimeconfig.json
+C:\Users\viole\Documents\GitHub\basic_c#_programs\Basic-C--Programs\Abstract_Class_Assignment\Abstract_Class_Assignment\bin\Debug\netcoreapp3.1\Abstract_Class_Assignment.runtimeconfig.dev.json
+C:\Users\viole\Documents\GitHub\basic_c#_programs\Basic-C--Programs\Abstract_Class_Assignment\Abstract_Class_Assignment\bin\Debug\netcoreapp3.1\Abstract_Class_Assignment.dll
+C:\Users\viole\Documents\GitHub\basic_c#_programs\Basic-C--Programs\Abstract_Class_Assignment\Abstract_Class_Assignment\bin\Debug\netcoreapp3.1\Abstract_Class_Assignment.pdb
+C:\Users\viole\Documents\GitHub\basic_c#_programs\Basic-C--Programs\Abstract_Class_Assignment\Abstract_Class_Assignment\obj\Debug\netcoreapp3.1\Abstract_Class_Assignment.csproj.AssemblyReference.cache
+C:\Users\viole\Documents\GitHub\basic_c#_programs\Basic-C--Programs\Abstract_Class_Assignment\Abstract_Class_Assignment\obj\Debug\netcoreapp3.1\Abstract_Class_Assignment.AssemblyInfoInputs.cache
+C:\Users\viole\Documents\GitHub\basic_c#_programs\Basic-C--Programs\Abstract_Class_Assignment\Abstract_Class_Assignment\obj\Debug\netcoreapp3.1\Abstract_Class_Assignment.AssemblyInfo.cs
+C:\Users\viole\Documents\GitHub\basic_c#_programs\Basic-C--Programs\Abstract_Class_Assignment\Abstract_Class_Assignment\obj\Debug\netcoreapp3.1\Abstract_Class_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\viole\Documents\GitHub\basic_c#_programs\Basic-C--Programs\Abstract_Class_Assignment\Abstract_Class_Assignment\obj\Debug\netcoreapp3.1\Abstract_Class_Assignment.dll
+C:\Users\viole\Documents\GitHub\basic_c#_programs\Basic-C--Programs\Abstract_Class_Assignment\Abstract_Class_Assignment\obj\Debug\netcoreapp3.1\Abstract_Class_Assignment.pdb
+C:\Users\viole\Documents\GitHub\basic_c#_programs\Basic-C--Programs\Abstract_Class_Assignment\Abstract_Class_Assignment\obj\Debug\netcoreapp3.1\Abstract_Class_Assignment.genruntimeconfig.cache
