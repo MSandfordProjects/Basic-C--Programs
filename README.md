@@ -11,6 +11,7 @@ This repository displays what I have learned and created throughout my learning 
 * [Operators Assignment](https://github.com/MSandfordProjects/Basic-C--Programs/tree/main/OperatorsAssignment)
 * [Package Express Assignement](https://github.com/MSandfordProjects/Basic-C--Programs/tree/main/Package-Express)
 * [Twenty One Game](https://github.com/MSandfordProjects/Basic-C--Programs/tree/main/TwentyOne)
+* [Newsletter MVC](https://github.com/MSandfordProjects/Basic-C--Programs/tree/main/NewsletterAppMVC)
 
 ## Daily Report Assignment
 This project allows a user, specifically a student to be able to input a daily report about their studies.
@@ -29,3 +30,7 @@ the package size with a base set shipping fee.
 This program is a basic game of Twenty One, which is a casino Black Jack game that can be played with a dealer. You can set
 bets, hit, stay and leave once you're finished.
 
+
+# Newsletter MVC
+I learned in this program how to do a web application using MVC with visual studio. I was able to create a newsletter list and 
+add people to said list with an admin backend to unsubscribe people who wish to unsubscribe.
